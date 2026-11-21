@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning more about **DevOps and Cloud Infrastructure**.
 - 🛠️ I combine strong hardware troubleshooting skills with software development to deliver reliable technical solutions.
 - 💻 I have practical experience in laptop diagnostics, component replacement, and OS installation (Linux, Windows, macOS).
-- 📫 How to reach me: **techprincemr@gmail.com**
+- 📫 How to reach me: **prosperlx8@gmail.com**
 
 ---
 
